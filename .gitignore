@@ -8,3 +8,12 @@ wheels/
 
 # Virtual environments
 .venv
+
+# PDFs and Tests
+book.pdf
+book1.pdf
+book2.pdf
+book3.pdf
+book4.pdf
+/chapters
+file.txt
