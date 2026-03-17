@@ -1,0 +1,10 @@
+[project]
+name = "studyai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "pymupdf>=1.26.5",
+    "pypdf>=6.9.1",
+]
